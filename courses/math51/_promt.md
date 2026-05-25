@@ -1,0 +1,1 @@
+make it exportable to markdown with latex $$ formula wrapping

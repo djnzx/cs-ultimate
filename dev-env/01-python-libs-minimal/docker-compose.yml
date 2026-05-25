@@ -1,0 +1,15 @@
+name: cs-env-01
+
+services:
+  jupiter-notebook:
+    image: cs-env-01-python-libs-minimal:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    environment:
+      JUPYTER_TOKEN: "alex"
+    volumes:
+      - ../../courses:/workspace
+    container_name: jupiter-01
