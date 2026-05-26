@@ -1,0 +1,10 @@
+https://github.com/Lum1104/Understand-Anything
+https://github.com/pguso/agents-from-scratch
+https://github.com/anthropics/knowledge-work-plugins
+https://lean-lang.org
+https://github.com/leanprover-community
+https://www.knowledge-graph-guys.com
+https://github.com/algorithmicsuperintelligence
+https://github.com/analyticalrohit/llms-from-scratch
+https://github.com/Skabber2000
+https://github.com/jpmorganchase/python-training

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:stanford.edu)",
+      "Bash(pdftotext *)",
+      "Bash(python3 *)",
+      "Bash(mv *)",
+      "Bash(grep *)",
+      "Bash(pip3 install *)",
+      "Bash(sed -i *)",
+      "Bash(git reset *)",
+      "Read(//Users/alexr/.claude/commands/**)",
+      "Read(//Users/alexr/.claude/**)"
+    ]
+  }
+}
