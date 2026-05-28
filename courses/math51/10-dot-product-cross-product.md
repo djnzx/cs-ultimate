@@ -24,6 +24,8 @@ $$
 \mathbf{a} \cdot \mathbf{b} \in \mathbb{R}
 $$
 
+https://www.youtube.com/watch?v=LyGKycYT2v0
+
 ### Geometric meaning
 
 The dot product can also be written as:

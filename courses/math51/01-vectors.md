@@ -158,3 +158,5 @@ A **vector** is an ordered list of numbers: $\mathbf{v} = (v_1, v_2, \dots, v_n)
 - **Scalar multiplication:** $c\,\mathbf{v} = (c v_1,\ \dots,\ c v_n)$ Geometrically, a vector represents a direction and a magnitude (length) in space.
 
 The next topic covers **linear independence, span, and basis** — the structural properties of sets of vectors.
+
+https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab

@@ -1,3 +1,5 @@
+### some entry points
+
 https://www.youtube.com/@stanfordonline/courses
 https://www.youtube.com/@stanford/courses
 https://explorecourses.stanford.edu/search
@@ -57,7 +59,11 @@ https://see.stanford.edu
 - [CS106A Programming Methodology](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852)
 - [CS106L Standard C++ Programming](https://web.stanford.edu/class/cs106l/)
 - CS109 Probability for Computer Scientists
+  - https://cs109.stanford.edu
   - https://web.stanford.edu/class/cs109
+  - https://web.stanford.edu/class/cs109/handouts/syllabus.html
+  - course reader: https://probabilitycoders.stanford.edu/spr26
+  - https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf
   - https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
 - [CS151 Logic Programming](https://logicprogramming.stanford.edu/)
 - [CS157 Computational Logic](https://intrologic.stanford.edu/)
