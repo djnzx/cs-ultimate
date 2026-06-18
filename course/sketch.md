@@ -192,8 +192,8 @@ Core:
 Classic/practice links:
 
 * [Stanford CS154 Introduction to Automata and Complexity Theory](https://theory.stanford.edu/~liyang/teaching/computability.html)
-* [CS154 lecture videos/slides by Omer Reingold](https://omereingold.wordpress.com/cs154/)
-* [Michael Sipser, Introduction to the Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/)
+* [CS154 Winter 2012 homeworks and notes](https://theory.stanford.edu/~trevisan/cs154-12/index.html)
+* [Michael Sipser, Introduction to the Theory of Computation](https://faculty.cengage.com/works/9781133187790)
 
 Assignments:
 
@@ -255,7 +255,7 @@ Classic/practice links:
 
 * [Stanford CS242 Programming Languages](https://web.stanford.edu/class/cs242/)
 * [CS242 Fall 2018 assignments](https://stanford-cs242.github.io/f18/assignments/)
-* [CMU 15-312 Principles of Programming Languages](https://www.andrew.cmu.edu/course/15-312/)
+* [CMU 15-312 Principles of Programming Languages assignments](https://www.andrew.cmu.edu/course/15-312/hws.html)
 * [Types and Programming Languages official page](https://www.cis.upenn.edu/~bcpierce/typesbook/)
 * [TAPL implementations and resources](https://www.cis.upenn.edu/~bcpierce/tapl/)
 * [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/)
@@ -335,10 +335,10 @@ Core:
 
 Classic/practice links:
 
-* [Stanford CS151 Logic Programming](https://logicprogramming.stanford.edu/)
-* [Stanford CS157 Computational Logic](https://intrologic.stanford.edu/)
-* [Learn Datalog interactive tutorial](https://learn-some.com/)
-* [The Art of Prolog](https://mitpress.mit.edu/9780262193382/the-art-of-prolog/)
+* [Stanford CS151 Logic Programming](http://logicprogramming.stanford.edu/)
+* [Stanford CS157 Computational Logic](http://intrologic.stanford.edu/)
+* [Souffle Datalog tutorial](https://souffle-lang.github.io/tutorial)
+* [The Art of Prolog, Open Library](https://openlibrary.org/works/OL3961566W/The_art_of_Prolog)
 
 Assignments:
 
@@ -363,7 +363,7 @@ Classic/practice/state-of-the-art links:
 * [Stanford CS357 Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/)
 * [Automated Reasoning: satisfiability](https://www.coursera.org/learn/automated-reasoning-sat)
 * [Z3 Guide](https://microsoft.github.io/z3guide/)
-* [Handbook of Satisfiability](https://ebooks.iospress.nl/volume/handbook-of-satisfiability-second-edition)
+* [Handbook of Satisfiability, DBLP record](https://dblp.org/rec/series/faia/336)
 
 Assignments:
 
@@ -399,7 +399,7 @@ Classic/practice links:
 * [MIT 6.441 Information Theory assignments](https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/resources/assignments/)
 * [Stanford EE376A Information Theory](https://web.stanford.edu/class/ee376a/)
 * [Elements of Information Theory, Cover and Thomas](https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959)
-* [UMass CS650 Applied Information Theory](https://people.cs.umass.edu/~arya/courses/650/CS650-2016.html)
+* [Divergence, Entropy, Information: An Opinionated Introduction to Information Theory](https://arxiv.org/abs/1708.07459)
 
 Assignments:
 
@@ -448,7 +448,7 @@ Core:
 Classic/practice links:
 
 * [Stanford CS229 Machine Learning](https://cs229.stanford.edu/)
-* [Stanford CS229M Statistical Learning Theory](https://web.stanford.edu/class/cs229m/)
+* [Stanford STATS214 / CS229M Machine Learning Theory](https://web.stanford.edu/class/stats214/)
 * [Stanford CS231N Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/)
 
 Assignments:
@@ -613,7 +613,7 @@ This is the minimum practical path through the full program:
 10. Prolog/Datalog symbolic reasoning project.
 11. Z3/SAT/SMT verification project.
 12. MIT 6.441 information theory problem sets.
-13. EE364A or CS205L optimization assignments.
+13. EE364A optimization assignments and CS205L numerical labs.
 14. CS229 ML implementations.
 15. CS224N or CS336 transformer implementation.
 16. ARENA interpretability exercises.
