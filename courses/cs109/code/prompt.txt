@@ -1,0 +1,4 @@
+draw two normal distributions
+N1(m=15, sigma^2=15)
+N2(m=8, sigma^2=50)
+and put the bar at 14
